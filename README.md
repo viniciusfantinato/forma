@@ -49,3 +49,4 @@ git clone https://github.com/viniciusfantinato/forma.git
 ```
 2. Acesse a pasta do projeto
 3. Abra o arquivo *index.html* em seu navegador
+4. Ou acesse: [Forma](https://viniciusfantinato.github.io/forma/page/index.html)
